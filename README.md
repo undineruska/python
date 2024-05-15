@@ -7,11 +7,8 @@ Read me file uses markdown sytax to edit any text, formulas or codes.
 - Python
 - Github
 - Ruby
-- Javascript
+- JavaScript
 - CSS
-- html
+- HTML
 
-##  My major projects
-1. Java online banking app
-2. Python AI tool
-3. My own social network
+
